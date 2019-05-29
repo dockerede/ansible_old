@@ -1,0 +1,8 @@
+#[local]\nlocalhost\n
+[hosts]
+192.168.56.110
+192.168.56.111
+192.168.56.112
+[ansible]
+ansiblecontrol-01 ansible_connection=local
+
